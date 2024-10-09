@@ -1,5 +1,5 @@
 # Apress Source Code
-
+fix 1 merged conflict
 This repository accompanies [*%title%*](http://www.apress.com/%isbn%) by %author% (Apress, %pubyear%).
 
 [comment]: #cover
